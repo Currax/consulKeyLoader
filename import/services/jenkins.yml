@@ -1,0 +1,3 @@
+import_path: qa/services/jenkins
+
+jenkinsPort: 8080
